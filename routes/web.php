@@ -12,7 +12,7 @@
 */
 
 
-Route::get('/test', function () {
+/*Route::get('/test', function () {
     $hs = include('../database/hadith.php');
 
     $a = [];
@@ -67,4 +67,4 @@ Route::get('/test', function () {
     }
 
 
-});
+});*/
