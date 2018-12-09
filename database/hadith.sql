@@ -138,9 +138,9 @@ INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9,
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 1, "D'après Abu Hurayra <img class='rad'/>, l'Envoyé de Allah <img class='saw'/> a dit :", "Muslim et At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 2, "« Allah le Très-Haut est bon et n'accepte que ce qui est bon,", "Muslim et At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 3, "sachez qu'Allah a ordonné aux croyants ce qu'il a ordonné aux Envoyés,", "Muslim et At-Tirmidhi", 0);
-INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 4, "Il a dit [ s'agissant des Envoyés ] : { Ô les Envoyés ! Mangez des choses bonnes, œuvrez salutairement", "Muslim et At-Tirmidhi", 0);
-INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 5, "Je sais parfaitement ce que vous faites },", "Muslim et At-Tirmidhi", 0);
-INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 6, "et Il a dit [ s'agissant des croyants ] : { O vous qui croyez ! Mangez des choses bonnes que Nous vous attribuons } »", "Muslim et At-Tirmidhi", 0);
+INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 4, "Il a dit [ s'agissant des Envoyés ] : <span class='arab'>{</span> Ô les Envoyés ! Mangez des choses bonnes, œuvrez salutairement", "Muslim et At-Tirmidhi", 0);
+INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 5, "Je sais parfaitement ce que vous faites <span class='arab'>}</span>,", "Muslim et At-Tirmidhi", 0);
+INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 6, "et Il a dit [ s'agissant des croyants ] : <span class='arab'>{</span> O vous qui croyez ! Mangez des choses bonnes que Nous vous attribuons <span class='arab'>}</span> »", "Muslim et At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 7, "Puis il parla de l'homme qui fait un long voyage, à la tignasse mal peignée, poussiéreux, levant les mains au ciel criant :", "Muslim et At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 8, "« Seigneur ! Seigneur », alors que sa nourriture est de source illicite, sa boisson est de source illicite, ses habits sont de source illicite, il s'est rassasié de ce qui est illicite", "Muslim et At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(9, 9, "Il est loin pour que son invocation soit exaucée »", "Muslim et At-Tirmidhi", 0);
@@ -313,10 +313,10 @@ INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 10, "Le jeûne est un rempart", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 11, "L'aumône éteint le péché comme l'eau éteint le feu", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 12, "La prière de l'homme au milieu de la nuit (Est la meilleure) »", "At-Tirmidhi", 0);
-INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 13, "Puis il récita le verset : { Eux qui détachent leurs flancs de leur lit, pour invoquer leur Seigneur,", "At-Tirmidhi", 0);
+INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 13, "Puis il récita le verset : <span class='arab'>{</span> Eux qui détachent leurs flancs de leur lit, pour invoquer leur Seigneur,", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 14, "dans la crainte et l’espoir, et sur notre attribution fait dépense", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 15, "Nulle âme ne peut connaître ce qu’on a réservé pour eux comme fraîcheur des yeux, en récompense de ce qu’ils pratiquaient", "At-Tirmidhi", 0);
-INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 16, "} (32:16-17)", "At-Tirmidhi", 0);
+INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 16, "<span class='arab'>}</span> (32:16-17)", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 17, "Puis il reprit : « Veux -tu que je te montre la partie principale de la religion, sa colonne et son sommet ? »", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 18, "« Oui, Ô Envoyé d'Allah », répondis je", "At-Tirmidhi", 0);
 INSERT INTO hadith(id_hadith_title, id_line, french, report, is_title) VALUES(26, 19, "Il répondit : « La partie principale de la religion, c'est la soumission à Allah,", "At-Tirmidhi", 0);
